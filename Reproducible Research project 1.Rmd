@@ -6,7 +6,7 @@ output: html_document
 ---
 
 ```{r setwd, echo=FALSE}
-setwd("D:/Allerlei/Coursera/R-files/Reproducible Research")
+setwd("C:/Users/Harald/Git/ReproducibleResearch_Project1")
 ```
 
 # Introduction
